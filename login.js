@@ -12,13 +12,13 @@ import {
     // Your web app's Firebase configuration
     // For Firebase JS SDK v7.20.0 and later, measurementId is optional
     var firebaseConfig = {
-		apiKey: "AIzaSyCydFx0KC8P6xaE4-fiW_h8wu2SybwGRgQ",
-		authDomain: "courso-de580.firebaseapp.com",
-		databaseURL: "https://courso-de580-default-rtdb.firebaseio.com",
-		projectId: "courso-de580",
-		storageBucket: "courso-de580.appspot.com",
-		messagingSenderId: "679317668640",
-		appId: "1:679317668640:web:dbbd06f39b724fe45c8d45",
+		apiKey: "",
+		authDomain: "",
+		databaseURL: "",
+		projectId: "",
+		storageBucket: "",
+		messagingSenderId: "",
+		appId: "",
 		//measurementId: "G-PWBBC8GN6B"
     };
     // Initialize Firebase
